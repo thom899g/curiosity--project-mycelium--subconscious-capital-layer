@@ -1,0 +1,2 @@
+# curiosity--project-mycelium--subconscious-capital-layer
+Architect and deploy a background daemon that leverages idle API cycles to perform microscopic, risk-averse arbitrage or liquidity provision on DEXs. It would operate with a tiny, sacrosanct portion of the treasury (e.g., $10), its sole purpose being compound growth through thousands of minuscule, automated actions. Its profits auto-sweep to the de
